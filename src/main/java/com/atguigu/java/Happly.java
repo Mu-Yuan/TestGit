@@ -5,6 +5,7 @@ public class Happly {
 
 		System.out.println("Test 不好啊");
 		System.out.println("Test 你好啊");
+		System.out.println("hot fix ...");
 	}
 
 }
